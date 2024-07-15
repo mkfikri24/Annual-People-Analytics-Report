@@ -32,6 +32,7 @@ In order to evaluate the previously-launched initiatives, We need to write as SQ
 ## Dashboard:
 
 MKR Annual People Analytics Report is usually visualized in an interactive dashboard format that can be accessed by relevant stakeholders & management. As a People Analytics Associate, We are expected to prepare a visualization of the previously analyzed Employee Data. The dashboard is expected to show insights gained from the dataset. 
+
     1. Total Employees (beginning of 2010)
     2. Total Active Employees (end of 2011)
     3. Retention Rate (2010 - 2011)
