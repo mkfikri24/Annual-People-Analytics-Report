@@ -32,12 +32,11 @@ In order to evaluate the previously-launched initiatives, We need to write as SQ
 ## Dashboard:
 
 MKR Annual People Analytics Report is usually visualized in an interactive dashboard format that can be accessed by relevant stakeholders & management. As a People Analytics Associate, We are expected to prepare a visualization of the previously analyzed Employee Data. The dashboard is expected to show insights gained from the dataset. 
-
-    1. Total Employees (beginning of 2010)
-    2. Total Active Employees (end of 2011)
-    3. Retention Rate (2010 - 2011)
-    4. Growth Rate (2010 - 2011)
-    5. Active Employee Distribution by City 7 
-    6. Total Active Employees by Tenure Group & Age Group 
-    7. Estimated Budget for Tenure-Based Reward Program in 2012 by Tenure Group 
-    8. Top 3 Department & City based on Total New Joiners
+1. Total Employees (beginning of 2010)
+2. Total Active Employees (end of 2011)
+3. Retention Rate (2010 - 2011)
+4. Growth Rate (2010 - 2011)
+5. Active Employee Distribution by City 7
+6. Total Active Employees by Tenure Group & Age Group
+7. Estimated Budget for Tenure-Based Reward Program in 2012 by Tenure Group
+8. Top 3 Department & City based on Total New Joiners
